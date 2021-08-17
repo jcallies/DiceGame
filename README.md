@@ -12,6 +12,7 @@ $ cd DiceGame
 
 # Launch index.html on your browser
 $ start index.html # On Windows
+
 $ open index.html # On Linux/Mac
 
 See the completed website here: https://jcallies.github.io/DiceGame/ 
